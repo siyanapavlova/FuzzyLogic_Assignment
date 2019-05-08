@@ -16,22 +16,22 @@ To run the system, you need to have Python 2.7 installed.
 To run the entire system 
 
 1. Open a terminal
-2. Navigate to the folder where the __init__.py file is located
-3. Type python __init__.py in the command line
+2. Navigate to the folder where the `__init__.py` file is located
+3. Type python `__init__.py` in the command line
 
-This will run the __init__.py file.
+This will run the `__init__.py` file.
 You will get the result for the tippingRulebase.txt file.
 
 
 
 To test the system on another file:
 
-1. Place the file in the same directory as the __init__.py file
-2. Open the __init__.py file in an editor
+1. Place the file in the same directory as the `__init__.py` file
+2. Open the `__init__.py` file in an editor
 3. Replace "tippingRulebase.txt" on line 9 with the name of your file
-4. Run __init__.py
+4. Run `__init__.py`
 
-Two more sample files are available in the same directory as __init__.py,
+Two more sample files are available in the same directory as `__init__.py`,
 namely currentRulebase.txt and drugRulebase.txt.
 
 
