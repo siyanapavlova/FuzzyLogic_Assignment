@@ -2,6 +2,8 @@
 Part of the coursework for the CS4047 Computational Intelligence course at the University of Aberdeen
 
 ### Problem description
+Given a text file, containing a set of rules, a set of `n` variables with their 4-tuple fuzzy representation and a set of real life values for `n - 1` of these variables, provide a real life value for the missing variable.
+
 A detailed description of the project can be found in the `CS4047_Report_Pavlova_SS.pdf` file.
 
 ### Problem Representation
